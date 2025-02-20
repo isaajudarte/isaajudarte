@@ -10,3 +10,9 @@ Hello!! I am Isabella.<br>I am currently studying.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaajudarte&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaajudarte/isaajudarte/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaajudarte/isaajudarte/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/isaajudarte/isaajudarte/output/github-snake.svg" />
+</picture>
